@@ -44,7 +44,7 @@
                             <br/>
                             <li ><a class="text-dark" href="sololevelingchapter1.php">Chapter 1</a></li>
                             <br/>
-                            <li ><a class="text-dark" href="song3.php">Chapter 2</a></li>
+                            <li ><a class="text-dark" href="sololevelingchapter2.php">Chapter 2</a></li>
                             <br/>
                             <li ><a class="text-dark" href="song4.php">Chapter 3</a></li>
                             <br/>
@@ -58,7 +58,7 @@
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. Mark Christian M. Naling</p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. ManhwaToon</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
