@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Melomaniac Activity</title>
+        <title>Project</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
       
         <link href="css/styles.css" rel="stylesheet" />
@@ -19,8 +19,9 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="index.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="content.php">Content</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="aboutus.php">About Us</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="contactus.php">Contact us</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="contactus.php">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,6 +39,7 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                         <h4> This website was created by the developers so you can enjoy reading your favorite manhua online. We can now stream our favorite manhua online with the help of this website hope you enjoy using our website, Thank you.</h4>
+
                     </div>
                 </div>
             </div>

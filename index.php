@@ -19,8 +19,9 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="index.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="content.php">Content</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="aboutus.php">About Us</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="contactus.php">Contact us</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="contactus.php">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
@@ -33,17 +34,28 @@
             </div>
         </header>
         <!-- About section-->
-        <section id="songs">
+        <section id="Manhwa">
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <li ><a href="solo_leveling.php">Solo Leveling</a></li>
-                        <li ><a href="song2.php">Northern Blade</a></li>
-                        <li ><a href="song3.php">OverGear</a></li>
-                        <li ><a href="song4.php">Nice To Meet You</a></li>
-                        <li ><a href="song5.php">Mercenary Enrollment</a></li>
-                        <li ><a href="song6.php">Villain To Kill</a></li>
-                        <li ><a href="song7.php">Guard Pass</a></li>
+                        <h4>
+                            <ul type="none">
+                                <li ><a class="text-dark" href="solo_leveling.php">Solo Leveling</a></li>
+                                <br/>
+                                <li ><a class="text-dark" href="song2.php">Mercenary Enrollment</a></li>
+                                <br/>
+                                <li ><a class="text-dark" href="song3.php">Northern Blade</a></li>
+                                <br/>
+                                <li ><a class="text-dark" href="song4.php">Guard Pass</a></li>
+                                <br/>
+                                <li ><a class="text-dark" href="song5.php">Overgear</a></li>
+                                <br/>
+                                <li ><a class="text-dark" href="song6.php">Get Schooled</a></li>
+                                <br/>
+                            </ul>
+                        </h4>
+                    </div>
+                
                     </div>
                 </div>
             </div>

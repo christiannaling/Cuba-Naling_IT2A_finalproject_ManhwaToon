@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Melomaniac Activity</title>
+        <title>Project</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
       
         <link href="css/styles.css" rel="stylesheet" />
@@ -19,8 +19,9 @@
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link text-light" href="index.php">Home</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="content.php">Content</a></li>
                         <li class="nav-item"><a class="nav-link text-light" href="aboutus.php">About Us</a></li>
-                        <li class="nav-item"><a class="nav-link text-light" href="contactus.php">Contact us</a></li>
+                        <li class="nav-item"><a class="nav-link text-light" href="contactus.php">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
@@ -33,13 +34,13 @@
             </div>
         </header>
         <!-- About section-->
-        <section id="songs">
+        <section id="Manhwa">
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                       <?php
 
-                        echo "<h2 class='text-primary'>Contact Us</h2>";
+                        echo "<h2 class='text-dark'>Contact Us</h2>";
                         
                         echo "<p> earljeraldcuba@gmail.com | 09701836880</p>";
                         echo "<p> christiannaling4@gmail.com | 09123123120</p>";
@@ -48,7 +49,6 @@
                 </div>
             </div>
         </section>
-
         <footer class="py-3 bg-danger">
             <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. add your fullname here</p></div>
         </footer>
