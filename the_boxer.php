@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -14,7 +14,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="index.php"> ManhwaToon </a>
+                <a class="navbar-brand" href="the_boxer.php">The Boxer</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
@@ -38,31 +38,33 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h4>
+                            <img src="images/the_boxer/the_boxer_cover.jpg" alt="" class="img-fluid rounded shadow-sm">
+                            <?php
+                                echo "<br/>";
+                                echo "<p><h4> You’ve got the raw talent. Or you’re the underdog.</h4></p>";
+                                echo "<p><h4> But do you have the heart? Do you have what it takes?</h4></p>";
+                                echo "<p><h4> Let’s see what you’re made of. The real fight starts now!</h4></p>";
+                                echo "<br/>";
+                            ?> 
                             <ul type="none">
-                                <li ><a class="text-dark" href="solo_leveling.php">Solo Leveling</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="his_barcode_tattoo.php">His Barcode Tattoo</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="sweet_home.php">Sweet Home</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="the_boxer.php">The Boxer</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="song5.php">Overgear</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="song6.php">Get Schooled</a></li>
-                                <br/>
+                            <li ><h5><a class="text-dark" href="theboxerchapter1.php">Chapter 1</a></h5></li>
+                            <br/>
+                            <li ><h5><a class="text-dark" href="theboxerchapter2.php">Chapter 2</a></h5></li>
+                            <br/>
+                            <li ><h5><a class="text-dark" href="theboxerchapter3.php">Chapter 3</a></h5></li>
+                            <br/>
+                            <li ><h5><a class="text-dark" href="theboxerchapter4.php">Chapter 4</a></h5></li>
+                            <br/>
+                            <li ><h5><a class="text-dark" href="theboxerchapter5.php">Chapter 5</a></h5></li>
+                            <br/>
                             </ul>
-                        </h4>
-                    </div>
-                
                     </div>
                 </div>
             </div>
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. ManhwaToon </p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. ManhwaToon</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
