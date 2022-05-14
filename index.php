@@ -42,7 +42,7 @@
                             <ul type="none">
                                 <li ><a class="text-dark" href="solo_leveling.php">Solo Leveling</a></li>
                                 <br/>
-                                <li ><a class="text-dark" href="song2.php">Mercenary Enrollment</a></li>
+                                <li ><a class="text-dark" href="his_barcode_tattoo.php">His Barcode Tattoo</a></li>
                                 <br/>
                                 <li ><a class="text-dark" href="song3.php">Northern Blade</a></li>
                                 <br/>
