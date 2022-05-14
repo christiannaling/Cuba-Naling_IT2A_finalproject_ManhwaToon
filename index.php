@@ -48,9 +48,7 @@
                                 <br/>
                                 <li ><a class="text-dark" href="the_boxer.php">The Boxer</a></li>
                                 <br/>
-                                <li ><a class="text-dark" href="song5.php">Overgear</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="song6.php">Get Schooled</a></li>
+                                <li ><a class="text-dark" href="study_group.php">Study Group</a></li>
                                 <br/>
                             </ul>
                         </h4>

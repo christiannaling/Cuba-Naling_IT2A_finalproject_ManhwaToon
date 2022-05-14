@@ -38,13 +38,13 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                            <img src="images/solo_leveling/jinwo.png" alt="" class="img-fluid rounded shadow-sm">
+                            <img src="images/solo_leveling/solo_leveling_cover.png" alt="" class="img-fluid rounded shadow-sm">
                             <?php
                             echo "<br/>";
-                                 echo "<p><h4> E-class hunter Jinwoo Sung is the weakest of them all. Looked down on by everyone,</h4></p>";
-                                 echo "<p><h4> he has no money, no abilities to speak of, and no other job prospects. So when his </h4></p>";
-                                 echo "<p><h4> party finds a hidden dungeon, echo he’s determined to use this chance to change his</h4></p>";
-                                 echo "<p><h4> life for the better… but the opportunity he finds is a bit different from what he had in mind!</h4></p>";
+                                echo "<p><h4> E-class hunter Jinwoo Sung is the weakest of them all. Looked down on by everyone,</h4></p>";
+                                echo "<p><h4> he has no money, no abilities to speak of, and no other job prospects. So when his </h4></p>";
+                                echo "<p><h4> party finds a hidden dungeon, echo he’s determined to use this chance to change his</h4></p>";
+                                echo "<p><h4> life for the better… but the opportunity he finds is a bit different from what he had in mind!</h4></p>";
                                 echo "<br/>";
                                 echo "<p><h4> Alternative Names: Na Honjaman Level-Up, Only I Level Up, I Alone Level-Up</h4></p>";
                                 echo "<br/>";
