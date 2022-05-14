@@ -55,7 +55,7 @@
                             <br/>
                             <li ><h5><a class="text-dark" href="hisbarcodetattoochapter3.php">Chapter 3</a></h5></li>
                             <br/>
-                            <li ><h5><a class="text-dark" href="sololevelingchapter3.php">Chapter 4</a></h5></li>
+                            <li ><h5><a class="text-dark" href="hisbarcodetattoochapter4.php">Chapter 4</a></h5></li>
                             <br/>
                             <li ><h5><a class="text-dark" href="sololevelingchapter4.php">Chapter 5</a></h5></li>
                             <br/>
