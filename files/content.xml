@@ -3,30 +3,42 @@
 
 	<story >
 		<title>Solo leveling</title>
-		<author>Earl Cuba</author>
-		<chapter>10</chapter>
-		<genre>Action</genre>
+		<author>Chugong</author>\
+		<publisher>DC Webtoon</publisher>
+		<chapter>5</chapter>
+		<genre>Action, Fantasy</genre>
 	</story>
 
 	<story >
-		<title>Solo leveling</title>
-		<author>Earl Cuba</author>
-		<chapter>10</chapter>
-		<genre>Action</genre>
+		<title>His Barcode Tattoo</title>
+		<author>Ivy Song</author>
+		<publisher>Wishroomness</publisher>
+		<chapter>5</chapter>
+		<genre>Romance, School-life</genre>
 	</story>
 
 	<story >
-		<title>Solo leveling</title>
-		<author>Earl Cuba</author>
-		<chapter>10</chapter>
-		<genre>Action</genre>
+		<title>Sweet Home</title>
+		<author>Kim Carnby</author>
+		<publisher>LINE Webtoon</publisher>
+		<chapter>5</chapter>
+		<genre>Thriller, Horror</genre>
 	</story>
 	
 	<story >
-		<title>Solo leveling</title>
-		<author>Earl Cuba</author>
-		<chapter>10</chapter>
-		<genre>Action</genre>
+		<title>The Boxer</title>
+		<author>Jung Ji-Hoon</author>
+		<publisher>LINE Webtoon, Naver Webtoons</publisher>
+		<chapter>5</chapter>
+		<genre>Sports, Action</genre>
+	</story>
+
+	<story >
+		<title>Study Group</title>
+		<author>Hyungwook Shin</author>
+		<publisher>Seungyeon Ryu</publisher>
+		<chapter>5</chapter>
+		<genre> School- life, Action</genre>
 	</story>
 
 </Manhwa>

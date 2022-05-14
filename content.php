@@ -49,6 +49,7 @@
                 <thead class="table-dark">
                     <th scope="col">Title</th>
                     <th scope="col">Author</th>
+                    <th scope="col">Publisher</th>
                     <th scope="col">Chapter</th>
                     <th scope="col">Genre</th>
                 </thead>
@@ -63,8 +64,9 @@
                         <tr>
                             <td> <?php echo $rows->title; ?> </td>
                             <td> <?php echo $rows->author; ?> </td>
+                            <td> <?php echo $rows->publisher; ?> </td>
                             <td> <?php echo $rows->chapter; ?> </td>
-                            <td> <?php echo $rows->genre; ?> </td>
+                            <td> <?php echo $rows->genre ?> </td>
                         </tr>
                     <?php 
                     }//closing bracket of foreach
@@ -74,6 +76,7 @@
                 <tfoot>
                     <th scope="col">Title</th>
                     <th scope="col">Author</th>
+                    <th scope="col">Publisher</th>
                     <th scope="col">Chapter</th>
                     <th scope="col">Genre</th>                     
                 </tfoot>
