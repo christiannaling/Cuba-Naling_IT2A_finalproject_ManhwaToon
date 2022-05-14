@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -14,7 +14,7 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="mainNav">
             <div class="container px-4">
-                <a class="navbar-brand" href="index.php"> ManhwaToon </a>
+                <a class="navbar-brand" href="sweet_home.php">Sweet Home</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
@@ -38,31 +38,34 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                        <h4>
+                            <img src="images/sweet_home/sweet_home_cover.jpg" alt="" class="img-fluid rounded shadow-sm">
+                            <?php
+                                echo "<br/>";
+                                echo "<p><h4> Now a major adaptation on streaming. After an unexpected family tragedy, a reclusive</h4></p>";
+                                echo "<p><h4> high school student is forced to leave his home, only to face something much scarier:</h4></p>";
+                                echo "<p><h4> a reality where monsters are trying to wipe out humanity. Now he must fight </h4></p>";
+                                echo "<p><h4>  alongside a handful of reluctant heroes to try and save the world before it’s too late.</h4></p>";
+                                echo "<br/>";
+                            ?> 
                             <ul type="none">
-                                <li ><a class="text-dark" href="solo_leveling.php">Solo Leveling</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="his_barcode_tattoo.php">His Barcode Tattoo</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="sweet_home.php">Sweet Home</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="song4.php">Guard Pass</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="song5.php">Overgear</a></li>
-                                <br/>
-                                <li ><a class="text-dark" href="song6.php">Get Schooled</a></li>
-                                <br/>
+                            <li ><h5><a class="text-dark" href="sweethomeprologue.php">Prologue</a></h5></li>
+                            <br/>
+                            <li ><h5><a class="text-dark" href="sweethomechapter1.php">Chapter 2</a></h5></li>
+                            <br/>
+                            <li ><h5><a class="text-dark" href="sweethomechapter2.php">Chapter 3</a></h5></li>
+                            <br/>
+                            <li ><h5><a class="text-dark" href="sweethomechapter3.php">Chapter 4</a></h5></li>
+                            <br/>
+                            <li ><h5><a class="text-dark" href="sweethomechapter4.php">Chapter 5</a></h5></li>
+                            <br/>
                             </ul>
-                        </h4>
-                    </div>
-                
                     </div>
                 </div>
             </div>
         </section>
 
         <footer class="py-3 bg-danger">
-            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. ManhwaToon </p></div>
+            <div class="container px-4"><p class="m-0 text-center text-white">Copyright &copy; 2022. ManhwaToon</p></div>
         </footer>
         <!-- Bootstrap core JS-->
         <script src="js/bootstrap.bundle.min.js"></script>
