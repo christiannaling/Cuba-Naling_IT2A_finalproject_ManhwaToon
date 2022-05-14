@@ -50,13 +50,13 @@
                             <ul type="none">
                             <li ><h5><a class="text-dark" href="sweethomeprologue.php">Prologue</a></h5></li>
                             <br/>
-                            <li ><h5><a class="text-dark" href="sweethomechapter1.php">Chapter 2</a></h5></li>
+                            <li ><h5><a class="text-dark" href="sweethomechapter1.php">Chapter 1</a></h5></li>
                             <br/>
-                            <li ><h5><a class="text-dark" href="sweethomechapter2.php">Chapter 3</a></h5></li>
+                            <li ><h5><a class="text-dark" href="sweethomechapter2.php">Chapter 2</a></h5></li>
                             <br/>
-                            <li ><h5><a class="text-dark" href="sweethomechapter3.php">Chapter 4</a></h5></li>
+                            <li ><h5><a class="text-dark" href="sweethomechapter3.php">Chapter 3</a></h5></li>
                             <br/>
-                            <li ><h5><a class="text-dark" href="sweethomechapter4.php">Chapter 5</a></h5></li>
+                            <li ><h5><a class="text-dark" href="sweethomechapter4.php">Chapter 4</a></h5></li>
                             <br/>
                             </ul>
                     </div>
