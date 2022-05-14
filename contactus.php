@@ -41,7 +41,7 @@
                       <?php
 
                         echo "<h2 class='text-dark'>Contact Us</h2>";
-                        
+                        echo "<p><h5> You can contact us on this number or email.</h5></p>";
                         echo "<p> earljeraldcuba@gmail.com | 09701836880</p>";
                         echo "<p> christiannaling4@gmail.com | 09306990938</p>";
                         ?>

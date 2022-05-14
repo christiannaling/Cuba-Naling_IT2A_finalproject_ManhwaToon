@@ -39,19 +39,30 @@
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
                             <img src="images/solo_leveling/jinwo.png" alt="" class="img-fluid rounded shadow-sm">
+                            <?php
+                            echo "<br/>";
+                                 echo "<p><h4> E-class hunter Jinwoo Sung is the weakest of them all. Looked down on by everyone,</h4></p>";
+                                 echo "<p><h4> he has no money, no abilities to speak of, and no other job prospects. So when his </h4></p>";
+                                 echo "<p><h4> party finds a hidden dungeon, echo he’s determined to use this chance to change his</h4></p>";
+                                 echo "<p><h4> life for the better… but the opportunity he finds is a bit different from what he had in mind!</h4></p>";
+                                echo "<br/>";
+                                echo "<p><h4> Alternative Names: Na Honjaman Level-Up, Only I Level Up, I Alone Level-Up</h4></p>";
+                                echo "<br/>";
+                            ?> 
+                            <ul type="none">
+                            <li ><h5><a class="text-dark" href="sololevelingchapter0.php">Chapter 0</a></h5></li>
                             <br/>
-                            <li ><a class="text-dark" href="sololevelingchapter0.php">Chapter 0</a></li>
+                            <li ><h5><a class="text-dark" href="sololevelingchapter1.php">Chapter 1</a></h5></li>
                             <br/>
-                            <li ><a class="text-dark" href="sololevelingchapter1.php">Chapter 1</a></li>
+                            <li ><h5><a class="text-dark" href="sololevelingchapter2.php">Chapter 2</a></h5></li>
                             <br/>
-                            <li ><a class="text-dark" href="sololevelingchapter2.php">Chapter 2</a></li>
+                            <li ><h5><a class="text-dark" href="sololevelingchapter3.php">Chapter 3</a></h5></li>
                             <br/>
-                            <li ><a class="text-dark" href="song4.php">Chapter 3</a></li>
+                            <li ><h5><a class="text-dark" href="sololevelingchapter4.php">Chapter 4</a></h5></li>
                             <br/>
-                            <li ><a class="text-dark" href="song5.php">Chapter 4</a></li>
+                            <li ><h5><a class="text-dark" href="sololevelingchapter5.php">Chapter 5</a></h5></li>
                             <br/>
-                            <li ><a class="text-dark" href="song6.php">Chapter 5</a></li>
-                            <br/>
+                            </ul>
                     </div>
                 </div>
             </div>

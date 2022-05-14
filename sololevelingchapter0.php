@@ -38,7 +38,7 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                          
+                        <h1 class="fw-bolder">Chapter 0</h1>  
                         <ul type="none">
                             <li><img src="images/solo_leveling/_Chapter 0/001.png" alt="" class="img-fluid rounded shadow-sm"></li>
                             <li><img src="images/solo_leveling/_Chapter 0/002.png" alt="" class="img-fluid rounded shadow-sm"></li>

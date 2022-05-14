@@ -38,7 +38,7 @@
             <div class="container px-4 ">
                 <div class="row gx-4 justify-content-center">
                     <div class="col-lg-12 text-center">
-                          
+                        <h1 class="fw-bolder">Chapter 2</h1>  
                         <ul type="none">
                             <li><img src="images/solo_leveling/_Chapter 2/001.png" alt="" class="img-fluid rounded shadow-sm"></li>
                             <li><img src="images/solo_leveling/_Chapter 2/002.png" alt="" class="img-fluid rounded shadow-sm"></li>
@@ -64,7 +64,7 @@
                             <li><img src="images/solo_leveling/_Chapter 2/022.png" alt="" class="img-fluid rounded shadow-sm"></li>
                             <li><img src="images/solo_leveling/_Chapter 2/023.png" alt="" class="img-fluid rounded shadow-sm"></li>
                             <li><img src="images/solo_leveling/_Chapter 2/024.png" alt="" class="img-fluid rounded shadow-sm"></li>
-                            <li><img src="images/solo_leveling/_Chapter 2/025.png" alt="" class="img-fluid rounded shadow-sm"></li>
+                            <li><img src="images/solo_leveling/_Chapter 2/025.jpg" alt="" class="img-fluid rounded shadow-sm"></li>
                         </ul>
                     </div>
                 </div>
