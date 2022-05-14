@@ -51,9 +51,9 @@
                             <ul type="none">
                             <li ><h5><a class="text-dark" href="hisbarcodetattoochapter1.php">Chapter 1</a></h5></li>
                             <br/>
-                            <li ><h5><a class="text-dark" href="sololevelingchapter1.php">Chapter 2</a></h5></li>
+                            <li ><h5><a class="text-dark" href="hisbarcodetattoochapter2.php">Chapter 2</a></h5></li>
                             <br/>
-                            <li ><h5><a class="text-dark" href="sololevelingchapter2.php">Chapter 3</a></h5></li>
+                            <li ><h5><a class="text-dark" href="hisbarcodetattoochapter3.php">Chapter 3</a></h5></li>
                             <br/>
                             <li ><h5><a class="text-dark" href="sololevelingchapter3.php">Chapter 4</a></h5></li>
                             <br/>
